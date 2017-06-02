@@ -151,4 +151,3 @@ if __name__=='__main__':
         songids = checkSongs()
         lyrics = lyricsCrawl(songids)
         outLyrics(lyrics)
-
